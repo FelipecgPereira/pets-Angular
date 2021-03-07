@@ -1,27 +1,46 @@
-# Spaangular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+<h1 align="center">
+  PETS
+</h1>
 
-## Development server
+<h2>
+<img src="src/assets/image/apresentacao.png">
+</h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Indice
 
-## Code scaffolding
+- [Sobre](#-sobre)
+- [Tecnologia](#-tecnologia)
+- [Como baixar](#-como-baixar)
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📋 Sobre
 
-## Build
+Aplicação para pratica conceitual aplicados no angular no **BootCamp Avanade**, como uso de interpolação, navegação de routas property binding e o uso do Angular Material.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## 💻 Tecnologia
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- [Angular](https://angular.io/)
 
-## Running end-to-end tests
+## 📦 Como baixar
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```bash 
+# Clonar o repositório
+$ git clone https://github.com/FelipecgPereira/pets-Angular.git
 
-## Further help
+# Entrar no diretorio
+$ cd pet-angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Instalar as dependencias caso use Yarn
+$ yarn
+
+# Instalar as dependencias caso use npm
+$ npm install
+
+# Iniciar o projeto
+$ ng serve --o
+
+```
+---
+Desenvolvido 🚀 por Felipe Pereira
